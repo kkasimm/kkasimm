@@ -3,7 +3,11 @@
 
 ###
 
-<img align="center" height="" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhzdXJsZTE3ZmkxN3pwNnZ4ZGpoc3czam11d2RkNnJrOWU5OXZlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hQuNhHxSWYhxp9KmyS/giphy.gif"/>
+<br clear="both">
+
+<div align="center">
+  <img height="" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhzdXJsZTE3ZmkxN3pwNnZ4ZGpoc3czam11d2RkNnJrOWU5OXZlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hQuNhHxSWYhxp9KmyS/giphy.gif"  />
+</div>
 
 ###
 
