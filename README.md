@@ -4,7 +4,9 @@
 
 <br clear="both">
 
-<img align="center" height="" src="img/kitachan.gif"  />
+<div align="center">
+  <img height="" src="img/kitachan.gif"  />
+</div>
 
 ###
 
