@@ -1,13 +1,12 @@
 ###
-<h1>Hello World, I'am Kasimirus👋</h1>
+![hello](img/github-header-banner.png)
+###
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img height="" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhzdXJsZTE3ZmkxN3pwNnZ4ZGpoc3czam11d2RkNnJrOWU5OXZlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hQuNhHxSWYhxp9KmyS/giphy.gif"  />
-</div>
+<img align="center" height="" src="img/zenitsu-serious.gif"  />
 
 ###
 
@@ -68,5 +67,13 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=sleflqbgkt6b5jyf8y5q53jtm&count=1&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkasimm/kkasimm/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkasimm/kkasimm/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kkasimm/kkasimm/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
