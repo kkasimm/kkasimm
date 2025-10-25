@@ -4,10 +4,9 @@
 
 <br clear="both">
 
-<img align="center" height="" src="img/zenitsu-serious.gif"  />
+<img align="center" height="850" src="img/zenitsu-serious.gif"  />
 
 ###
-
 
 <h2 align="left">Code</h2>
 
