@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="center" height="850" src="img/zenitsu-serious.gif"  />
+<img align="center" height="850" src="img/kitachan.gif"  />
 
 ###
 
